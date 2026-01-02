@@ -1,9 +1,9 @@
 {
-    "id": "bitfocus-artnet-fixtures",
+    "id": "artnet-fixtures",
     "name": "Art-Net Fixture Controller",
     "shortname": "Art-Net Fixtures",
     "description": "Control multiple Art-Net fixtures with custom channel mappings and presets.",
-    "version": "1.0.7",
+    "version": "1.0.3",
     "license": "MIT",
     "authors": [
         {
