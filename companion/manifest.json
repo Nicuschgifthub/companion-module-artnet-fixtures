@@ -1,0 +1,38 @@
+{
+    "id": "bitfocus-artnet-fixtures",
+    "name": "Art-Net Fixture Controller",
+    "shortname": "Art-Net Fixtures",
+    "description": "Control multiple Art-Net fixtures with custom channel mappings and presets.",
+    "version": "1.0.7",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas Morawietz",
+            "email": "n.morawietz@mxi-net.de"
+        }
+    ],
+    "runtime": {
+        "type": "node18",
+        "api": "nodejs-ipc",
+        "apiVersion": "1.2.1",
+        "entrypoint": "main.js"
+    },
+    "manufacturer": "Generic",
+    "products": [
+        "Art-Net Fixtures"
+    ],
+    "keywords": [
+        "Art-Net",
+        "DMX",
+        "Fixture"
+    ],
+    "legacyIds": [],
+    "repository": "https://github.com/bitfocus/companion-module-bitfocus-artnet-fixtures",
+    "bugs": "https://github.com/bitfocus/companion-module-bitfocus-artnet-fixtures/issues",
+    "maintainers": [],
+    "category": "lighting",
+    "links": {
+        "repository": "https://github.com/bitfocus/companion-module-bitfocus-artnet-fixtures",
+        "bugs": "https://github.com/bitfocus/companion-module-bitfocus-artnet-fixtures/issues"
+    }
+}

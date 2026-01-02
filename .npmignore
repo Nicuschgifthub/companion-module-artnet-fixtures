@@ -1,0 +1,5 @@
+node_modules
+*.tgz
+pkg/*.LICENSE.txt
+.gemini
+.git
